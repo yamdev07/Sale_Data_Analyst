@@ -3,7 +3,7 @@ if __name__ == '__main__':
     import pandas as pd
 
     # Chemin du fichier CSV
-    csv_file = 'C:/Users/yoannyamd/PycharmProjects/Sale_Data_Analyst/data/sales.csv'
+    csv_file = 'C:/Users/yoannyamd/PycharmProjects/Sale_Data_Analyst/data/sales_fictional_large.csv'
 
 
     # Vérifier si le fichier existe
