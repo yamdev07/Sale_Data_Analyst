@@ -2,7 +2,7 @@ import pandas as pd
  
 
 # Charger les données depuis le fichier CSV
-csv_file_path = "C:\python_projet\Sale_Data_Analyst\data\sales_fictional_large.csv"  # Remplacez par votre chemin
+csv_file_path = "C:\python_projet\Sale_Data_Analyst\data\sales_fictional_large.csv" 
 sales_data = pd.read_csv(csv_file_path)
 
 # Convertir "Date de Vente" en type datetime pour les analyses de date
