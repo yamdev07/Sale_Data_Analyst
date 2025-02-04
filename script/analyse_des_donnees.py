@@ -41,4 +41,3 @@ print(quantity_by_payment)
 
 print("\n6. Date avec les ventes les plus élevées :")
 print(f"Date : {top_sales_date[0]}, Chiffre d'affaires : {top_sales_date[1]:,.2f} FCFA")
-
