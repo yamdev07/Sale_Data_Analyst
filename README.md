@@ -82,17 +82,26 @@ Pour représenter les données de manière claire et compréhensible, plusieurs 
    - **Type de graphique** : Diagramme à barres horizontales.
    - **Pourquoi ?** Ce graphique permet de comparer efficacement les quantités vendues des produits et facilite la lecture lorsque les noms des produits sont longs.
 
+![Produits les plus vendus](https://github.com/user-attachments/assets/d79965f5-c628-43a1-a2c2-9b6d4dfe5222)
+
 ### 2. Chiffre d'affaires par produit (Top 10)
    - **Type de graphique** : Diagramme à barres horizontales.
    - **Pourquoi ?** Il permet une comparaison claire des chiffres d'affaires des produits les plus performants.
+
+![Chiffre d'affaires par produit](https://github.com/user-attachments/assets/5f531158-348e-458c-a9b7-5c8535af420b)
+
 
 ### 3. Chiffre d'affaires par catégorie
    - **Type de graphique** : Diagramme circulaire (Pie Chart).
    - **Pourquoi ?** Ce graphique est idéal pour visualiser la répartition du chiffre d'affaires entre les catégories de produits.
 
+![Chiffre d'affaires par catégorie](https://github.com/user-attachments/assets/a63e81f8-6c8a-4566-96e9-7002fd834194)
+
 ### 4. Chiffre d'affaires par région
    - **Type de graphique** : Diagramme à barres verticales.
    - **Pourquoi ?** Il permet une comparaison efficace des performances des régions.
+
+![Chiffre d'affaires par région](https://github.com/user-attachments/assets/22c93a67-1011-427d-92d3-e8638aa6aa69)
 
 ### 5. Quantité vendue par mode de paiement
    - **Type de graphique** : Diagramme à barres verticales.
@@ -100,10 +109,7 @@ Pour représenter les données de manière claire et compréhensible, plusieurs 
 
 
 ![ Quantité vendue par mode de paiement](https://github.com/user-attachments/assets/2bf18a4a-28b9-421b-8a86-7a9f681fe357)
-![Chiffre d'affaires par région](https://github.com/user-attachments/assets/22c93a67-1011-427d-92d3-e8638aa6aa69)
-![Chiffre d'affaires par catégorie](https://github.com/user-attachments/assets/a63e81f8-6c8a-4566-96e9-7002fd834194)
-![Chiffre d'affaires par produit](https://github.com/user-attachments/assets/5f531158-348e-458c-a9b7-5c8535af420b)
-![Produits les plus vendus](https://github.com/user-attachments/assets/d79965f5-c628-43a1-a2c2-9b6d4dfe5222)
+
 
 Toutes les visualisations sont générées avec **Matplotlib** et **Seaborn** pour garantir une présentation claire et lisible des données.
 
