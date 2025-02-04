@@ -95,7 +95,7 @@ Ce projet est réalisé uniquement dans un cadre pédagogique et les données ut
 **ADIGBONON Yoann**
 **AGBODJOGBE Merveille**
 **WINSOU Astrid**
-**DRAMANN Hamzath**
+**DRAMANE Hamzath**
 
 ## Licence
 
