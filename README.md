@@ -32,9 +32,23 @@ Les données sont chargées à l'aide de la bibliothèque **pandas** et nettoyé
 
 
 ## 📊 Analyse des Données de Vente  
+L'analyse des données de vente a été réalisée en plusieurs étapes clés :
 
-## 📝 Description du Projet  
-Ce projet a pour objectif d'analyser un jeu de données de ventes afin d'identifier des tendances, les produits les plus populaires et les périodes de forte demande. Il est réalisé en équipe dans le cadre de notre cours.  
+ 1. ## Préparation et Chargement des Données
+
+Les données ont été générées sous forme de fichiers CSV, comprenant des informations sur les produits, les quantités, les revenus, et les dates de vente.
+Le fichier sales_fictional_large.csv a été chargé dans un DataFrame à l'aide de pandas.
+Une première étape de nettoyage a permis de vérifier les valeurs manquantes, les doublons, et d'ajuster les types de données.
+## 2. 🔍 Exploration Initiale des Données
+
+Une fois les données nettoyées, des statistiques descriptives ont été générées pour mieux comprendre les tendances de base à l'aide des fonctions df.describe() et df.info().
+ ## 3. 📝Analyse des Tendances de Vente
+
+Des analyses ont été effectuées pour identifier les produits les plus vendus, les produits générant le plus de revenus et les périodes de forte demande.
+Les données ont été regroupées par produit, par région et par mode de paiement pour comprendre les comportements d'achat.
+## 4. Calcul des KPIs
+
+Des indicateurs clés de performance (KPIs) ont été calculés pour évaluer la performance de chaque produit, comme le revenu total par produit, la quantité totale vendue par mois, et le chiffre d'affaires par région.  
 
 ## 🔍 Mon Rôle dans le Projet  
 En tant que membre de l'équipe, ma principale mission était :  
